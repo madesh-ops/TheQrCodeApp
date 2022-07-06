@@ -20,5 +20,6 @@ pip install opencv-python
 pip install numpy
 pip install pyzbar
 ```
+---
 ### Submission
 Submitted for the 12th Computer science project
