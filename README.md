@@ -19,6 +19,7 @@ pip install tkinter
 pip install opencv-python
 pip install numpy
 pip install pyzbar
+pip install image
 ```
 ---
 ### Submission
